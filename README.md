@@ -1,1 +1,1 @@
-# functional-playground
+# typescript node starter
